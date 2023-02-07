@@ -1,0 +1,42 @@
+.title{
+  width: fit-content;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+
+}
+
+.h1{
+  font-family: golden;
+    font-size: 70px;
+      letter-spacing: 1px;
+        color: white;
+          margin-bottom: 0px;
+          margin-top: 200px
+}
+
+.h2{
+font-family: lato;
+  font-weight: lighter;
+    color: white;
+     font-size: 20px
+      letter-spacing: 5px;
+      margin-top: 0px;
+      margin-bottom: 100px;
+      margin-left: 10px;
+
+}
+
+.englobe{
+  background-image: url('file:///C:/Users/Loic/Documents/ESDES/CODING/Web%201920%20%E2%80%93%201.png');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+   height: 800px;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   padding-left: 20px;
+}

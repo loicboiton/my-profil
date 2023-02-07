@@ -1,0 +1,39 @@
+.discoverbutton{
+ display: flex;
+ justify-content: flex-start;
+ margin-top: 150px;
+ margin-left: 10px;
+
+}
+
+.discoverbutton a:hover{
+  color: #E0A800;
+  transition: 0.3s;
+}
+
+.button:hover{
+    transform: scale(1.1);
+  transition-duration: 300ms;
+}
+
+.button{
+  background-color: white;
+  border-radius: 30px;
+  border: 0px;
+  box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.38);
+  padding: 12px 20px;
+  color: black;
+
+
+}
+
+.button a{
+  font-family: lato;
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+a:visited{
+  color: black;
+}

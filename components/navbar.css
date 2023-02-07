@@ -1,0 +1,32 @@
+.navbar{
+  background-color: #000000bd;
+    overflow: hidden;
+      width: 600px;
+        height: 50px;
+          display: flex;
+            justify-content: space-between;
+              font-family: Lato;
+                font-weight: lighter;
+                  letter-spacing: 3px;
+                  position: sticky;
+                  top: 20px;
+
+
+}
+
+.navbar a{
+    float: left;
+      color: white;
+        text-align: left;
+          padding: 14px 16px;
+            font-size: 17px;
+              text-decoration: none;
+}
+
+.navbar a:hover{
+  color: #E0A800;
+}
+
+.navbar a:active{
+  color: #E0A800;
+}

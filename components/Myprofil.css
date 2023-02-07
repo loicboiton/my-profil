@@ -1,0 +1,103 @@
+.PROFIL{
+  margin: 0 auto;
+  width: 1200px;
+
+}
+
+.aboutme{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+  font-family: golden;
+  font-size: 30px;
+}
+
+.paragraph{
+  display: flex;
+  flex-direction: row;
+  padding-right: 20px;
+  font-family: lato;
+  font-size: 17px;
+  text-align: right;
+}
+
+.photoprofil{
+  display: flex;
+  justify-content: flex-start;
+  height: 300px;
+  width: 300px;
+  border-radius: 200px;
+  box-shadow: 1px 8px 12px 0px rgba(0,0,0,0.38);
+}
+
+.story{
+  display: flex;
+  justify-content: flex-end;
+padding-left: 300px;
+}
+
+.logiciels{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  margin-top: 100px;
+  align-content: flex-end;
+}
+
+.illustrator{
+font-family: lato;
+font-weight: bold;
+font-size: 20px;
+letter-spacing: 2px;
+border-radius: 20px;
+padding: 20px, 0px;
+background-color: white;
+border: 0px;
+box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.38);
+margin-bottom: 15px;
+width: 20%;
+
+}
+
+.photoshop{
+font-family: lato;
+font-weight: bold;
+font-size: 20px;
+letter-spacing: 2px;
+border-radius: 20px;
+padding: 20px, 0px;
+background-color: white;
+border: 0px;
+box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.38);
+margin-bottom: 15px;
+width: 20%;
+}
+
+.AdobeXD{
+ font-family: lato;
+font-weight: bold;
+font-size: 20px;
+letter-spacing: 2px;
+border-radius: 20px;
+padding: 20px, 0px;
+background-color: white;
+border: 0px;
+box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.38);
+margin-bottom: 15px;
+width: 20%;
+}
+
+.Aftereffects{
+  font-family: lato;
+font-weight: bold;
+font-size: 20px;
+letter-spacing: 2px;
+border-radius: 20px;
+padding: 20px, 0px;
+background-color: white;
+border: 0px;
+box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.38);
+margin-bottom: 15px;
+width: 20%;
+}
